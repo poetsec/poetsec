@@ -26,8 +26,9 @@
 ### Reading & Recent Courses
 - 📗 Information Technology Essentials: An Introduction to Information Technology by Eric Frick
 - 📝 IT Security Foundations: Operating System Security by [Lisa Bock][lisa_bock]
-- 📝 MITRE ATT&CK Defender Fundamentals by [Cybrary][cybrary]
+- 📝 MITRE ATT&CK Defender Fundamentals from [Cybrary][cybrary]
 - 📝 macOS Support: Network Services from [Pluralsight][pluralsight]
+- 📝 Learn Python and Ethical Hacking from Scratch by [Zaid Sabih, zSecurity][zaid]
 
 ---
 ### Connect with me
@@ -39,3 +40,4 @@
 [lisa_bock]: https://www.linkedin.com/learning/instructors/lisa-bock
 [cybrary]: https://cybrary.it
 [pluralsight]: https://www.pluralsight.com/?utm_term=&aid=7010a000002BTbfAAG&promo=&utm_source=branded&utm_medium=digital_paid_search_bing&utm_campaign=Bing_US_Brand_E&utm_content=&msclkid=780466abcdd919d3e97c06703d5455ff
+[zaid]: https://www.linkedin.com/in/zaid-sabih-al-quraishi-5444a6127/?originalSubdomain=ie
