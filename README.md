@@ -14,7 +14,7 @@
 ---
 
 <img align="left" alt="poetsec's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=poetsec&show_icons=true&theme=tokyonight" />
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poetsec&theme=tokyonight" (https://github.com/poetsec/github-readme-stats)
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poetsec&theme=tokyonight" />
 
 
 [linkedin]: https://www.linkedin.com/in/taylor-shakespear/ 
