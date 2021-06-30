@@ -1,6 +1,6 @@
-### Hi there, I'm [Taylor][linkedin] 👋
+## Hi there, I'm [Taylor][linkedin] 👋
 
-## I'm currently making the transition from restaurant management and operations to information technology.
+### I'm currently making the transition from restaurant management and operations to information technology.
 
 - 🔭 I’m currently working on python scripts
 - 🌱 I’m currently learning security tools, networking, and IT concepts
