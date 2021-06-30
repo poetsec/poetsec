@@ -1,4 +1,4 @@
-### Hi there I'm [Taylor][linkedin] 👋
+### Hi there, I'm [Taylor][linkedin] 👋
 
 ## I'm currently making the transition from restaurant management and operations to information technology.
 
@@ -10,6 +10,8 @@
 - 📫 How to reach me: @poetsec on Telegram
 - ⚡ Fun fact: ...
 -->
+
+---[![poetsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetsec)](https://github.com/poetsec/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/taylor-shakespear/ 
