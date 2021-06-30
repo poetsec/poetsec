@@ -13,7 +13,7 @@
 
 ---
 
-<img align=center [![poetsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetsec&show_icons=true&theme=tokyonight)](https://github.com/poetsec/github-readme-stats) />
+<img align="left" [![poetsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetsec&show_icons=true&theme=tokyonight)](https://github.com/poetsec/github-readme-stats) />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poetsec&theme=tokyonight)](https://github.com/poetsec/github-readme-stats)
 
 
