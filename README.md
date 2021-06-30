@@ -13,7 +13,7 @@
 
 ---
 
-<img align="center" alt="poetsec's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=poetsec&show_icons=true&theme=tokyonight" />
+<img align="center" alt="poetsec's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=poetsec&show_icons=true&theme=tokyonight&count_private=true" />
 <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poetsec&theme=tokyonight" />
 
 
