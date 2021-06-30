@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there I'm [Taylor][linkedin] 👋
 
-<!--
-**poetsec/poetsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently making the transition from restaurant management and operations to information technology.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on python scripts
+- 🌱 I’m currently learning security tools, networking, and IT concepts
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with professional development
+- 💬 Ask me about anything
+- 📫 How to reach me: @poetsec on Telegram
 - ⚡ Fun fact: ...
 -->
+
+
+[linkedin]: https://www.linkedin.com/in/taylor-shakespear/ 
