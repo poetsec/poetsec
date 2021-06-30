@@ -31,7 +31,7 @@
 - 📝 Learn Python and Ethical Hacking from Scratch by [Zaid Sabih][zaid]
 
 ---
-### Connect with me
+### Connect with Me
 [LinkedIn][linkedin]
 
 
