@@ -23,10 +23,14 @@
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
-### Reading:
+### Reading & Recent Courses
+- 📗 Information Technology Essentials: An Introduction to Information Technology by Eric Frick
+- 📝 IT Security Foundations: Operating System Security by [Lisa Bock][https://www.linkedin.com/learning/instructors/lisa-bock]
+- 📝 MITRE ATT&CK Defender Fundamentals by [Cybrary][https://cybrary.it]
+- 📝 macOS Support: Network Services from [Pluralsight][https://www.pluralsight.com/?utm_term=&aid=7010a000002BTbfAAG&promo=&utm_source=branded&utm_medium=digital_paid_search_bing&utm_campaign=Bing_US_Brand_E&utm_content=&msclkid=780466abcdd919d3e97c06703d5455ff]
 
 ---
-### Connect with me:
+### Connect with me
 [LinkedIn][linkedin]
 
 
