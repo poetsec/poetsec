@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with professional development
 - 💬 Ask me about anything
-- 📫 How to reach me: @poetsec on Telegram
+- 📫 How to reach me: [telegram]
 - ⚡ Fun fact: ...
 -->
 
@@ -21,3 +21,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/taylor-shakespear/ 
+[telegram]: <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
