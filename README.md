@@ -28,7 +28,7 @@
 - 📝 IT Security Foundations: Operating System Security by [Lisa Bock][lisa_bock]
 - 📝 MITRE ATT&CK Defender Fundamentals from [Cybrary][cybrary]
 - 📝 macOS Support: Network Services from [Pluralsight][pluralsight]
-- 📝 Learn Python and Ethical Hacking from Scratch by [Zaid Sabih, zSecurity][zaid]
+- 📝 Learn Python and Ethical Hacking from Scratch by [Zaid Sabih][zaid]
 
 ---
 ### Connect with me
