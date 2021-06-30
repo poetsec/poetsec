@@ -11,7 +11,9 @@
 - ⚡ Fun fact: ...
 -->
 
----[![poetsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetsec)](https://github.com/poetsec/github-readme-stats)
+---
+
+[![poetsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetsec)](https://github.com/poetsec/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/taylor-shakespear/ 
