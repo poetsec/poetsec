@@ -25,9 +25,9 @@
 ---
 ### Reading & Recent Courses
 - 📗 Information Technology Essentials: An Introduction to Information Technology by Eric Frick
-- 📝 IT Security Foundations: Operating System Security by [Lisa Bock][https://www.linkedin.com/learning/instructors/lisa-bock]
-- 📝 MITRE ATT&CK Defender Fundamentals by [Cybrary][https://cybrary.it]
-- 📝 macOS Support: Network Services from [Pluralsight][https://www.pluralsight.com/?utm_term=&aid=7010a000002BTbfAAG&promo=&utm_source=branded&utm_medium=digital_paid_search_bing&utm_campaign=Bing_US_Brand_E&utm_content=&msclkid=780466abcdd919d3e97c06703d5455ff]
+- 📝 IT Security Foundations: Operating System Security by [Lisa Bock][lisa_bock]
+- 📝 MITRE ATT&CK Defender Fundamentals by [Cybrary][cybrary]
+- 📝 macOS Support: Network Services from [Pluralsight][pluralsight]
 
 ---
 ### Connect with me
@@ -36,4 +36,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/taylor-shakespear/ 
-
+[lisa_bock]: https://www.linkedin.com/learning/instructors/lisa-bock
+[cybrary]: https://cybrary.it
+[pluralsight]: https://www.pluralsight.com/?utm_term=&aid=7010a000002BTbfAAG&promo=&utm_source=branded&utm_medium=digital_paid_search_bing&utm_campaign=Bing_US_Brand_E&utm_content=&msclkid=780466abcdd919d3e97c06703d5455ff
