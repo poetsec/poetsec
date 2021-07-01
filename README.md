@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with professional development
 - 💬 Ask me about anything
 - 📫 How to reach me: @poetsec on Telegram
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I learn human languages for fun
 -->
 
 
