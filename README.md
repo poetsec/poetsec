@@ -14,10 +14,11 @@
 
 ---
 [![poetsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetsec&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/poetsec/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poetsec&theme=tokyonight&langs_count=5)](https://github.com/poetsec/github-readme-stats)
 
 
+![](https://github.com/poetsec/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/poetsec/github-stats/blob/master/generated/languages.svg)
 
 ---
 ### Languages & Tools
