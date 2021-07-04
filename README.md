@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with professional development
 - 💬 Ask me about anything
-- 📫 How to reach me: @poetsec on Telegram
+- 📫 How to reach me: @poetsec on Telegram or Twitter
 - ⚡ Fun fact: I learn human languages for fun
 
 
@@ -33,7 +33,7 @@
 
 ---
 ### Connect with Me
-[LinkedIn][linkedin]
+[LinkedIn][linkedin] [Twitter][twitter]
 
 
 
@@ -43,3 +43,4 @@
 [pluralsight]: https://www.pluralsight.com/?utm_term=&aid=7010a000002BTbfAAG&promo=&utm_source=branded&utm_medium=digital_paid_search_bing&utm_campaign=Bing_US_Brand_E&utm_content=&msclkid=780466abcdd919d3e97c06703d5455ff
 [zaid]: https://www.linkedin.com/in/zaid-sabih-al-quraishi-5444a6127/?originalSubdomain=ie
 [eric]: https://www.skillshare.com/user/ericfrick
+[twitter]: https://twitter.com/poetsec
