@@ -23,6 +23,7 @@
 ---
 ### Reading & Recent Courses
 - 📗 Information Technology Essentials: An Introduction to Information Technology by [Eric Frick][eric]
+- 📗📝 Automate the Boring Stuff with Python Programming by [Al Sweigart][al]
 - 📝 IT Security Foundations: Operating System Security by [Lisa Bock][lisa_bock]
 - 📝 MITRE ATT&CK Defender Fundamentals from [Cybrary][cybrary]
 - 📝 macOS Support: Network Services from [Pluralsight][pluralsight]
@@ -43,3 +44,4 @@
 [zaid]: https://www.linkedin.com/in/zaid-sabih-al-quraishi-5444a6127/?originalSubdomain=ie
 [eric]: https://www.skillshare.com/user/ericfrick
 [twitter]: https://twitter.com/poetsec
+[al]: https://alsweigart.com/
