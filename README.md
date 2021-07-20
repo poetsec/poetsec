@@ -22,6 +22,7 @@
 
 ---
 ### Reading & Recent Courses
+- 📗 CS50 by [David Malan][malan] from [Harvard University edX][cs50edx]
 - 📗 Information Technology Essentials: An Introduction to Information Technology by [Eric Frick][eric]
 - 📗📝 Automate the Boring Stuff with Python Programming by [Al Sweigart][al]
 - 📝 IT Security Foundations: Operating System Security by [Lisa Bock][lisa_bock]
@@ -45,3 +46,5 @@
 [eric]: https://www.skillshare.com/user/ericfrick
 [twitter]: https://twitter.com/poetsec
 [al]: https://alsweigart.com/
+[malan]: https://cs.harvard.edu/malan/
+[cs50edx]: https://cs50.edx.org/
