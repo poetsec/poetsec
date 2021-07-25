@@ -36,12 +36,12 @@
 Follow my progress through the 100 Days of Code challenge [here][100days], or check out my [general tech blog][hashnode] on Hashnode to read about my journey through infosec and programming topics. 
 
 ---
-### Connect with Me
-Follow me on [LinkedIn][linkedin], [Twitter][twitter], or [Hashnode][hashnode].
-
----
 [![poetsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetsec&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/poetsec/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poetsec&theme=tokyonight&langs_count=5)](https://github.com/poetsec/github-readme-stats)
+
+---
+### Connect with Me
+Follow me on [LinkedIn][linkedin], [Twitter][twitter], or [Hashnode][hashnode].
 
 [linkedin]: https://www.linkedin.com/in/taylor-shakespear/ 
 [lisa_bock]: https://www.linkedin.com/learning/instructors/lisa-bock
