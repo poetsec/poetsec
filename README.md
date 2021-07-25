@@ -30,9 +30,14 @@
 - 📝 macOS Support: Network Services from [Pluralsight][pluralsight]
 - 📝 Learn Python and Ethical Hacking from Scratch by [Zaid Sabih][zaid]
 
+
+---
+### Blogs
+Follow my progress through the 100 Days of Code challenge [here][100days], or check out my [general tech blog][hashnode] on Hashnode to read about my journey through infosec and programming topics. 
+
 ---
 ### Connect with Me
-[LinkedIn][linkedin] [Twitter][twitter]
+Follow me on [LinkedIn][linkedin], [Twitter][twitter], or [Hashnode][hashnode].
 
 ---
 [![poetsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetsec&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/poetsec/github-readme-stats)
@@ -48,3 +53,5 @@
 [al]: https://alsweigart.com/
 [malan]: https://cs.harvard.edu/malan/
 [cs50edx]: https://cs50.edx.org/
+[100days]: https://poetsec.github.io/#100-days-of-code
+[hashnode]: https://poetsec.hashnode.dev/
