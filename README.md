@@ -1,4 +1,4 @@
-## Hi there, I'm [Taylor][linkedin] 👋
+## Hi there, I'm [Taylor][poetsec] 👋
 
 ### I'm currently making the transition from restaurant management and operations to information security/cybersecurity.
 
@@ -53,3 +53,4 @@ See what I've been learning by reading my [public notebook][notebook].
 [100days]: https://poetsec.github.io/#100-days-of-code
 [hashnode]: https://poetsec.hashnode.dev/
 [notebook]: https://poetsec.sh/notebook.html
+[poetsec]: https://poetsec.sh/
