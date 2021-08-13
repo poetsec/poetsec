@@ -32,18 +32,15 @@
 
 
 ---
-### Blogs
-Follow my progress through the 100 Days of Code challenge [here][100days], or check out my [general tech blog][hashnode] on Hashnode to read about my journey through infosec and programming topics. 
+### Notebook
+See what I've been learning by reading my [public notebook][notebook].
 
 ---
 [![poetsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetsec&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/poetsec/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poetsec&theme=tokyonight&langs_count=5)](https://github.com/poetsec/github-readme-stats)
 
----
-### Connect with Me
-Follow me on [LinkedIn][linkedin], [Twitter][twitter], or [Hashnode][hashnode].
 
-[linkedin]: https://www.linkedin.com/in/taylor-shakespear/ 
+
 [lisa_bock]: https://www.linkedin.com/learning/instructors/lisa-bock
 [cybrary]: https://cybrary.it
 [pluralsight]: https://www.pluralsight.com/?utm_term=&aid=7010a000002BTbfAAG&promo=&utm_source=branded&utm_medium=digital_paid_search_bing&utm_campaign=Bing_US_Brand_E&utm_content=&msclkid=780466abcdd919d3e97c06703d5455ff
@@ -55,3 +52,4 @@ Follow me on [LinkedIn][linkedin], [Twitter][twitter], or [Hashnode][hashnode].
 [cs50edx]: https://cs50.edx.org/
 [100days]: https://poetsec.github.io/#100-days-of-code
 [hashnode]: https://poetsec.hashnode.dev/
+[notebook]: https://poetsec.sh/notebook.html
