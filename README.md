@@ -16,29 +16,15 @@
 ![](https://github.com/poetsec/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/poetsec/github-stats/blob/master/generated/languages.svg)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=poetsec&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 ---
 ### Languages & Tools
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
----
-### Reading & Recent Courses
-- 📝 CS50 taught by [David Malan][malan] from [Harvard University edX][cs50edx]
-- 📗 Information Technology Essentials: An Introduction to Information Technology by [Eric Frick][eric]
-- 📗📝 Automate the Boring Stuff with Python Programming by [Al Sweigart][al]
-- 📝 IT Security Foundations: Operating System Security by [Lisa Bock][lisa_bock]
-- 📝 MITRE ATT&CK Defender Fundamentals from [Cybrary][cybrary]
-- 📝 macOS Support: Network Services from [Pluralsight][pluralsight]
-- 📝 Learn Python and Ethical Hacking from Scratch by [Zaid Sabih][zaid]
-
-
 
 
 ---
-[![poetsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetsec&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/poetsec/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poetsec&theme=tokyonight&langs_count=5)](https://github.com/poetsec/github-readme-stats)
-
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=poetsec&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 
 [lisa_bock]: https://www.linkedin.com/learning/instructors/lisa-bock
