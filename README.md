@@ -1,6 +1,6 @@
 ## Hi there, I'm [Taylor][poetsec] 👋
 
-### I'm currently making the transition from restaurant management and operations to information security/cybersecurity.
+### I'm a Linux enthusiast working in IT while studying cybersecurity.
 
 - 🔭 I’m currently working on python programs and shell scripts
 - 🌱 I’m currently learning security tools, networking, and IT concepts
@@ -31,9 +31,7 @@
 - 📝 Learn Python and Ethical Hacking from Scratch by [Zaid Sabih][zaid]
 
 
----
-### Notebook
-See what I've been learning by reading my [public notebook][notebook].
+
 
 ---
 [![poetsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetsec&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/poetsec/github-readme-stats)
