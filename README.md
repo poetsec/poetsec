@@ -14,7 +14,7 @@ a@@@@@@@@@@2                                    v@@@@@@@@@@;
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
 @@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
 #@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: poetsec.sh
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: poetsec#3813
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   GitLab: @tshakespear
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    Twitter: @poetsec
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    Github: poetsec
   n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     Telegram: @poetsec
