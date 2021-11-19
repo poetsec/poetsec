@@ -8,7 +8,7 @@ $ neofetch
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: Linux
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: Bash
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editor: VSCode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Focus: infosec, coding, ethical hacking
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Focus: shell scripting, hardware hacking
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/poetsec
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
